@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "todos": [
+    {
+      "title": "hi",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "hi r",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "smfx",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
